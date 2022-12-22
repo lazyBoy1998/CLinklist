@@ -1,0 +1,7 @@
+# ninja log v5
+0	177	6934144126845843	CMakeFiles/ListNode.dir/main.cpp.obj	202f2222dc6e7f3a
+178	236	6934144127425532	ListNode.exe	ab5ccaa47df1dfa2
+4	189	6934170698397105	CMakeFiles/ListNode.dir/Node.cpp.obj	b0702e8a8ccac6fc
+2	190	6934170698397105	CMakeFiles/ListNode.dir/main.cpp.obj	202f2222dc6e7f3a
+2	176	6934171583234925	CMakeFiles/ListNode.dir/main.cpp.obj	202f2222dc6e7f3a
+176	219	6934171583649042	ListNode.exe	19770282ed317a38
